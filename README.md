@@ -1,24 +1,53 @@
-# 📊 Techtronix KPI Dashboard (Power BI)
+# 📊 Techtronix Expansion Metrics Dashboard (Power BI Project)
 
-## Overview
-This project focuses on visualizing Techtronix’s business performance across revenue, product categories, and customer trends using Power BI.
+This Power BI dashboard analyzes Techtronix’s global business performance, expansion potential, and profitability across regions and product categories. It was developed to support data-driven strategic planning and guide executive decisions.
 
-## Tools Used
+---
+
+## 🛠 Tools Used
 - Power BI
-- Excel (data prep)
-- DAX (for calculated measures)
+- DAX Calculations
+- Data Modeling
+- Visual Slicers & Filters
+- Excel (as source data)
 
-## Dashboard Highlights
-- Interactive filters by product category and region
-- KPI cards for revenue and order volume
-- Trend and comparison visuals
+---
 
-## Key Insights
-- Revenue increased by 14% in Q3
-- Product Category C accounted for 34% of total orders
-- Customer Segment B had the highest churn rate
+## ❓ Key Business Questions
+- Which global regions are most profitable?
+- What product categories have the highest cost-to-profit ratio?
+- Who are our top customers by revenue?
+- How do regional trends compare across expansion metrics?
+- What are the projected profitability opportunities?
 
-## Outcome
-Created a fully interactive Power BI report for decision-makers to quickly assess performance and identify trends.
+---
 
+## 🖼 Dashboard Preview
 
+![Dashboard Screenshot](https://github.com/Basilissamaterry/techtronix-powerbi-kpi-dashboard/blob/main/techtronix-dashboard.png?raw=true)
+
+---
+
+## 💡 Insights Discovered
+- 🌏 **Asia-Pacific** leads in profitability, followed by Europe and North America.
+- 💰 **Top 5 customers** contributed over 50% of total revenue.
+- 🧾 High-cost product categories underperformed in specific regions.
+- 📈 Regional performance correlates with customer loyalty and pricing strategy.
+
+---
+
+## 📌 Outcome
+The dashboard enabled Techtronix leadership to:
+- Identify expansion-ready markets
+- Prioritize investment in profitable categories
+- Adjust pricing and marketing for underperforming segments
+
+---
+
+## 💬 How to Explore
+Use filters to view performance by:
+- Product category
+- Global region
+- Sales channel
+
+Feel free to ⭐ star this project or comment if you'd like to collaborate or learn more!
