@@ -23,7 +23,7 @@ This Power BI dashboard analyzes Techtronix’s global business performance, exp
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](https://techtronix-dashboard.png.)
+![Dashboard Screenshot](https://github.com/Basilissamaterry/techtronix-powerbi-kpi-dashboard/blob/main/techtronix-dashboard.png?raw=true)
 
 
 ---
